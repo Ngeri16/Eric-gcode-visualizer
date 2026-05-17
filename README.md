@@ -1,5 +1,6 @@
 # G-code Visualizer with Python GUI
-*Arcada University of Applied Sciences — Programming-2 2026* E Rit Nguyen**
+*Arcada University of Applied Sciences — Programming-2 2026* 
+**E Rit Nguyen**
 
 ## Description
 A Python desktop application that reads and visualises G-code files used in 3D printing and CNC machining. The toolpath is rendered in an interactive 3D plot inside a GUI.
